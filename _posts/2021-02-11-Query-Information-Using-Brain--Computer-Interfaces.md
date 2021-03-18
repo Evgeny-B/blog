@@ -3,7 +3,7 @@ layout: post
 ---
 You’re hosting an online meeting. One of the participants has forgotten to turn off his mic and he’s making a noise. You start looking through the user interface in order to see how to turn the mic off. But it’s complicated and you’re getting stuck.
 
-Then you query the software provider via a Brain-Computer Interface, the device which is implanted in your head, about your problem and get the sequence of actions in your mind’s eye (like, a virtual mental display).
+<span style="font-size:1.25em;">__Then you query the software provider via a Brain-Computer Interface, the device which is implanted in your head, about your problem and get the sequence of actions in your mind’s eye (like, a virtual mental display).__</span>
 
 This BCI isn’t a bunch of wires sticking out of your head. It can be pretty [neat](https://en.wikipedia.org/wiki/Neural_dust.)
 
