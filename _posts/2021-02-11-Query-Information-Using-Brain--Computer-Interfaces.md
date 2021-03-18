@@ -17,10 +17,10 @@ I want to know a fact. I call on the cloud for that info — like Googling somet
 ## Level 2
 I want to know a fact. I call on the cloud for that info, and then a second later I just know it. No reading was involved — it was more like the way I’d recall something from memory.
 
-##Level 3
+## Level 3
 I just know the fact I want to know the second I want it. I don’t even know if it came from the cloud or if it was stored in my brain. I can essentially treat the whole cloud like my brain. I don’t know all the info — my brain could never fit it all — but any time I want to know something it downloads into my consciousness so seamlessly and quickly, it’s as if it were there all along.
 
-##Level 4
+## Level 4
 Beyond just knowing facts, I can deeply understand anything I want to, in a complex way. We discussed the example of Moby Dick. Could I download Moby Dick from the cloud into my memory and then suddenly have it be the same as if I had read the whole book? Where I’d have thoughts and opinions and I could cite passages and have discussions about the themes?
 
 I’ll take a bit closer look at these levels further.
